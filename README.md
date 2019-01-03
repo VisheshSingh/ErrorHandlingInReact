@@ -1,2 +1,0 @@
-# ErrorHandlingInReact
-Created with CodeSandbox
