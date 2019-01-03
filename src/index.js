@@ -12,6 +12,14 @@ function App() {
       <h2>Start editing to see some magic happen!</h2>
       <Shield>
         <BuggyCounter />
+        <BuggyCounter />
+      </Shield>
+      <br />
+      <Shield>
+        <BuggyCounter />
+      </Shield>
+      <Shield>
+        <BuggyCounter />
       </Shield>
     </div>
   );
